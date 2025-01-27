@@ -1,0 +1,7 @@
+{
+    "name": "RustExample",
+    "image": "mcr.microsoft.com/vscode/devcontainers/rust:latest",
+    "customizations": {
+      "extensions": ["rust-lang.rust-analyzer"]
+    }
+    }
